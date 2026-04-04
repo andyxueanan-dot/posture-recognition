@@ -1,0 +1,16 @@
+{
+  "teacher_params": 491142,
+  "student_params": 10374,
+  "compression_ratio": 47.3,
+  "teacher_accuracy": 0.9806,
+  "student_accuracy": 0.7898,
+  "num_classes": 6,
+  "label_names": [
+    "走路",
+    "上楼",
+    "下楼",
+    "坐姿",
+    "站姿",
+    "躺卧"
+  ]
+}
